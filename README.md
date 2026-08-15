@@ -38,12 +38,10 @@ The following features may be added after the MVP is completed:
 
 ## Contribution Breakdown
 
-| Team Member | GitHub Username | Main Contribution |
+| Team Member | GitHub Username |  Contribution |
 |---|---|---|
 | Bradley | saokebrad-sys | Project setup, authentication, integration, code review and deployment |
-
 | Komer | pkomer | Posts feature — create/read posts, posts UI and backend/API |
-
 | Regina | lydiaa06karanja-art | User profiles and comments, frontend and backend integration |
 
 ### Contribution Workflow
