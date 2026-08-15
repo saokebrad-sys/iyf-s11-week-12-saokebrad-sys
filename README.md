@@ -35,6 +35,27 @@ The following features may be added after the MVP is completed:
 | Komer | pkomer | Developer |
 | Regina | lydiaa06karanja-art | Developer |
 
+
+## Contribution Breakdown
+
+| Team Member | GitHub Username | Main Contribution |
+|---|---|---|
+| Bradley | saokebrad-sys | Project setup, authentication, integration, code review and deployment |
+
+| Komer | pkomer | Posts feature — create/read posts, posts UI and backend/API |
+
+| Regina | lydiaa06karanja-art | User profiles and comments, frontend and backend integration |
+
+### Contribution Workflow
+
+Each member will contribute through their own feature branch and Pull Requests.
+
+- Bradley: Project setup and authentication
+- Komer: Posts functionality
+- Regina: Profiles and comments
+
+All members are expected to make commits, open Pull Requests, review other members' work, and contribute to testing and documentation.
+
 ## Project Structure
 
 ```text
