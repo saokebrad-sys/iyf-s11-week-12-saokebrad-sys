@@ -1,31 +1,35 @@
-# ConnectHub
+# Week 12: Deployment & Final Project
+## Author
+- **Name:** KomerPurity
+- **GitHub:** [@pkomer](https://github.com/saokebrad-sys/iyf-s11-week-12-saokebrad-sys)
+- **Date:** 08 21, 2026
+- 
+## Project Description
 
-## Community Hub Web Application
+ConnectHub is a community platform designed to help people connect, share information, and interact with one another through posts and comments. The project includes both a frontend and backend and is designed to provide a responsive and user-friendly community experience.
 
-ConnectHub is a community platform designed to help people connect, share information, and interact with one another through posts and comments.
+## Technologies Used
 
-## Project Objective
+- React
+- Vite
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Git
+- GitHub
+- Vercel
+- Render
+- 
+## Features
 
-The goal of ConnectHub is to create a simple, responsive, and user-friendly community platform where users can create accounts, manage profiles, publish posts, and interact with other members.
-
-## Core Features
-
-- User registration and login
-- User profiles
-- Create posts
-- Read posts
-- Comment on posts
-- Responsive design
-- Secure authentication
-- Deployed frontend and backend
-
-## Stretch Features
-
-The following features may be added after the MVP is completed:
-
-- Search and filtering
-- Likes/reactions
-- Image uploads
+- User profiles.
+- Create posts.
+- Read posts.
+- Post details.
+- Like posts.
+- Deployed frontend and backend.
 
 ## Team Members
 
@@ -34,7 +38,6 @@ The following features may be added after the MVP is completed:
 | Bradley | saokebrad-sys | Team Lead |
 | Komer | pkomer | Developer |
 | Regina | lydiaa06karanja-art | Developer |
-
 
 ## Contribution Breakdown
 
@@ -64,3 +67,33 @@ ConnectHub/
 ├── README.md
 ├── .env.example
 └── .gitignore
+
+## Lessons Learned
+
+- Build a React application using Vite.
+- Create reusable React components.
+- Use React Router for navigation.
+- Manage application state.
+- Connect an application to MongoDB.
+- Use Mongoose models.
+- Implement JWT authentication.
+- Configure CORS.
+- Use environment variables.
+- Connect a frontend application to a backend API.
+- Prepare an application for deployment.
+
+## Challenges Faced
+
+- Connecting the React frontend to the Express backend.
+- Configuring MongoDB and Mongoose.
+- Managing environment variables.
+- Resolving frontend and backend file structure issues.
+- Connecting the frontend to the API.
+- Preparing the backend for deployment.
+
+## Live Demo
+
+[Frontend](https://your-deployed-url.com)
+[Backend](https://your-deployed-url.com)
+[API Health Check](https://your-deployed-url.com)
+
