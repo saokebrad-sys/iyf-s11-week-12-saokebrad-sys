@@ -1,10 +1,3 @@
-Task 23.3: Enable CORS 🟢
-Time: 20 minutes
-
-Install CORS:
-
-npm install cors
-Configure CORS in Express:
 
 // src/app.js
 const cors = require('cors');
