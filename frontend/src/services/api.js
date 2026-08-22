@@ -13,6 +13,7 @@ const request = async (endpoint, options = {}) => {
     
     const config = {
         ...options,
+        headers: {
             'Content-Type': 'application/json',
             ...getAuthHeaders(),
             ...options.headers
