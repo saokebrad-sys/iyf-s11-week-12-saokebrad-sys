@@ -31,3 +31,4 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+   app.use('/api/health', require('./routes/health'));
