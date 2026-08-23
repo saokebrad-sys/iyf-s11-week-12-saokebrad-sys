@@ -1,5 +1,3 @@
-Task 23.3: Enable CORS 🟢
-Time: 20 minutes
 
 Install CORS:
 
