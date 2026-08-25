@@ -41,5 +41,5 @@ if (process.env.MONGO_URI) {
     .catch(e => console.error(e));
 }
 
-const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`Server on ${PORT}`));
+const PORT = process.env.PORT || 10000
+app.listen(PORT, '0.0.0.0', () => console.log(`Server on ${PORT}`));
